@@ -1,0 +1,2 @@
+# Dockerizing-the-To-Do-List-Application-using-Python-with-Flask-as-the-web-Framework
+Aims to provide a comprehensive overview of the process involved in building a To-Do List application using Python with Flask as the web framework and containerizing it with Docker. The To-Do List application serves as a practical example to demonstrate the development of a web application and its deployment within a Docker container.
